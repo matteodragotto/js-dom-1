@@ -19,7 +19,23 @@ body {
 
 .img{
   width: 50%;
+  display: flex;
+  justify-content: center;
 }
+
+.switch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+#light-switch {
+  padding: 20px 10px;
+  font-size: 20px;
+}
+
+
 
 .hide {
   display: none;
