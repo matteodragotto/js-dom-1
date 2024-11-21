@@ -13,4 +13,14 @@ body {
   height: 500px;
   border: 1px solid yellow;
   margin: 100px auto;
+  padding: 20px 40px;
+  display: flex
+}
+
+.img{
+  width: 50%;
+}
+
+.hide {
+  display: none;
 }
